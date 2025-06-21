@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  background-color: #4e097b;
+}
+
+#Contenedor {
+  border-style: solid;
+  width: 60vw;
+  height: 60vw;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Chappell{
+  position: absolute;
+  top: 28%;
+  right: -1%;
+  width: 50%;
+}
+
+#Lorde{
+  position: absolute;
+  width: 40%;
+  top: 40%;
+  left: 35%;
+}
+
+#Kate{
+  position: absolute;
+  width: 30%;
+  top: 0%;
+  left: 70%;
+}
+
+#Gerard{
+  position: absolute;
+  width: 45%;
+  top: 44%;
+  left: 0%;
+}
+
+#Fiona{
+  position: absolute;
+  width: 40%;
+  top: -4%;
+  left: 35%;
+}
+
+#Zendaya{
+  position: absolute;
+  width: 50%;
+  top: -1%;
+  left: 24%;
+  opacity:0%;
+}
+
+#Zendaya:hover {
+  opacity:100%;
+}
+
+#Mia {
+  position: absolute;
+  width: 40%;
+  top: -4%;
+  left:-5%;
+}
+
